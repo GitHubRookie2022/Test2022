@@ -24,4 +24,4 @@ public class Console {//[1]
             System.out.println("InterruptedException例外");//[64]
         }
     }
-}
+}// 更新テスト
