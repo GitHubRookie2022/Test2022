@@ -1,5 +1,5 @@
-* {
-  margin:0;
+*{
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -12,12 +12,11 @@
 .img-wrap {
   max-width: 1000px;
   margin: 0 auto;
+  
 }
-
-.img-wrap img{
+.img-wrap img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
   object-fit: cover;
 }
-  
